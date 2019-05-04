@@ -1,0 +1,1 @@
+[04-May-2019 11:04:58 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /var/www/html/SPE-WordPress/oSailing-theme-wp-Maxime-Mauny/wp/wp-includes/wp-db.php on line 1612
